@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCAPI005 - GET SINGLE RESOURCE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc982761-078e-4ee1-b742-485ebf760612</testCaseGuid>
+</TestCaseEntity>
